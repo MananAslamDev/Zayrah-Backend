@@ -1,8 +1,8 @@
 [
   {
     "id": "product001",
-    "name": "Silver Maxi 1",
-    "category": "Maxi",
+    "name": "3 Piece Lawn Black Suit-Embroidered (Unstitched)",
+    "category": "Lawn",
     "price": 5651,
     "sizes": [
       "Free Size"
@@ -11,15 +11,15 @@
       "Blue",
       "Silver"
     ],
-    "material": "Linen",
+    "material": "Lawn",
     "description": "High-quality fabric with hand-stitched work.",
     "inStock": true,
     "image": "/images/women/product001.jpg"
   },
   {
     "id": "product002",
-    "name": "Blue Shalwar Kameez 2",
-    "category": "Shalwar Kameez",
+    "name": "3 Piece Lawn Blue Suit-Embroidered (Unstitched)",
+    "category": "Lawn",
     "price": 5340,
     "sizes": [
       "S",
@@ -30,15 +30,15 @@
       "Blue",
       "Silver"
     ],
-    "material": "Chiffon",
+    "material": "Lawn",
     "description": "High-quality fabric with hand-stitched work.",
     "inStock": true,
     "image": "/images/women/product002.jpg"
   },
   {
     "id": "product003",
-    "name": "Pink Maxi 3",
-    "category": "Maxi",
+    "name": "3 Piece Lawn Pink Suit-Embroidered (Unstitched)",
+    "category": "Lawn",
     "price": 5098,
     "sizes": [
       "Free Size"
@@ -55,7 +55,7 @@
   {
     "id": "product004",
     "name": "Red Shalwar Kameez 4",
-    "category": "Shalwar Kameez",
+    "category": "Lawn",
     "price": 3293,
     "sizes": [
       "XS",
@@ -66,7 +66,7 @@
       "Black",
       "Red"
     ],
-    "material": "Chiffon",
+    "material": "Lawn",
     "description": "Casual wear with a graceful look.",
     "inStock": true,
     "image": "/images/women/product004.jpg"
@@ -370,555 +370,5 @@
     "description": "Intricate detailing and a modern touch.",
     "inStock": false,
     "image": "/images/women/product020.jpg"
-  },
-  {
-    "id": "product021",
-    "name": "Red 2-Piece Suit 21",
-    "category": "2-Piece Suit",
-    "price": 4758,
-    "sizes": [
-      "Free Size"
-    ],
-    "colors": [
-      "Black",
-      "Red"
-    ],
-    "material": "Linen",
-    "description": "High-quality fabric with hand-stitched work.",
-    "inStock": true,
-    "image": "/images/women/product021.jpg"
-  },
-  {
-    "id": "product022",
-    "name": "Blue Kurta 22",
-    "category": "Kurta",
-    "price": 6231,
-    "sizes": [
-      "XS",
-      "S",
-      "M"
-    ],
-    "colors": [
-      "Blue",
-      "Silver"
-    ],
-    "material": "Cotton",
-    "description": "Casual wear with a graceful look.",
-    "inStock": true,
-    "image": "/images/women/product022.jpg"
-  },
-  {
-    "id": "product023",
-    "name": "Blue Kurta 23",
-    "category": "Kurta",
-    "price": 4911,
-    "sizes": [
-      "M",
-      "L",
-      "XL"
-    ],
-    "colors": [
-      "Blue",
-      "Silver"
-    ],
-    "material": "Silk",
-    "description": "Casual wear with a graceful look.",
-    "inStock": true,
-    "image": "/images/women/product023.jpg"
-  },
-  {
-    "id": "product024",
-    "name": "Black Kurta 24",
-    "category": "Kurta",
-    "price": 4783,
-    "sizes": [
-      "M",
-      "L",
-      "XL"
-    ],
-    "colors": [
-      "Black",
-      "Red"
-    ],
-    "material": "Linen",
-    "description": "Intricate detailing and a modern touch.",
-    "inStock": true,
-    "image": "/images/women/product024.jpg"
-  },
-  {
-    "id": "product025",
-    "name": "Red Maxi 25",
-    "category": "Maxi",
-    "price": 5006,
-    "sizes": [
-      "S",
-      "M",
-      "L"
-    ],
-    "colors": [
-      "Black",
-      "Red"
-    ],
-    "material": "Lawn",
-    "description": "Lightweight and perfect for summer.",
-    "inStock": true,
-    "image": "/images/women/product025.jpg"
-  },
-  {
-    "id": "product026",
-    "name": "Gold Abaya 26",
-    "category": "Abaya",
-    "price": 4075,
-    "sizes": [
-      "Free Size"
-    ],
-    "colors": [
-      "White",
-      "Gold"
-    ],
-    "material": "Chiffon",
-    "description": "High-quality fabric with hand-stitched work.",
-    "inStock": true,
-    "image": "/images/women/product026.jpg"
-  },
-  {
-    "id": "product027",
-    "name": "Black Shalwar Kameez 27",
-    "category": "Shalwar Kameez",
-    "price": 4678,
-    "sizes": [
-      "M",
-      "L",
-      "XL"
-    ],
-    "colors": [
-      "Black",
-      "Red"
-    ],
-    "material": "Silk",
-    "description": "High-quality fabric with hand-stitched work.",
-    "inStock": true,
-    "image": "/images/women/product027.jpg"
-  },
-  {
-    "id": "product028",
-    "name": "Beige Dupatta 28",
-    "category": "Dupatta",
-    "price": 4615,
-    "sizes": [
-      "XS",
-      "S",
-      "M"
-    ],
-    "colors": [
-      "Yellow",
-      "Beige"
-    ],
-    "material": "Silk",
-    "description": "Casual wear with a graceful look.",
-    "inStock": true,
-    "image": "/images/women/product028.jpg"
-  },
-  {
-    "id": "product029",
-    "name": "Green 2-Piece Suit 29",
-    "category": "2-Piece Suit",
-    "price": 7497,
-    "sizes": [
-      "Free Size"
-    ],
-    "colors": [
-      "Green",
-      "Pink"
-    ],
-    "material": "Silk",
-    "description": "Lightweight and perfect for summer.",
-    "inStock": true,
-    "image": "/images/women/product029.jpg"
-  },
-  {
-    "id": "product030",
-    "name": "White 2-Piece Suit 30",
-    "category": "2-Piece Suit",
-    "price": 3145,
-    "sizes": [
-      "Free Size"
-    ],
-    "colors": [
-      "White",
-      "Gold"
-    ],
-    "material": "Lawn",
-    "description": "Lightweight and perfect for summer.",
-    "inStock": false,
-    "image": "/images/women/product030.jpg"
-  },
-  {
-    "id": "product031",
-    "name": "White 2-Piece Suit 31",
-    "category": "2-Piece Suit",
-    "price": 7487,
-    "sizes": [
-      "M",
-      "L",
-      "XL"
-    ],
-    "colors": [
-      "White",
-      "Gold"
-    ],
-    "material": "Silk",
-    "description": "High-quality fabric with hand-stitched work.",
-    "inStock": true,
-    "image": "/images/women/product031.jpg"
-  },
-  {
-    "id": "product032",
-    "name": "White Shalwar Kameez 32",
-    "category": "Shalwar Kameez",
-    "price": 5936,
-    "sizes": [
-      "XS",
-      "S",
-      "M"
-    ],
-    "colors": [
-      "White",
-      "Gold"
-    ],
-    "material": "Silk",
-    "description": "Lightweight and perfect for summer.",
-    "inStock": true,
-    "image": "/images/women/product032.jpg"
-  },
-  {
-    "id": "product033",
-    "name": "Black Maxi 33",
-    "category": "Maxi",
-    "price": 3826,
-    "sizes": [
-      "XS",
-      "S",
-      "M"
-    ],
-    "colors": [
-      "Black",
-      "Red"
-    ],
-    "material": "Chiffon",
-    "description": "Lightweight and perfect for summer.",
-    "inStock": true,
-    "image": "/images/women/product033.jpg"
-  },
-  {
-    "id": "product034",
-    "name": "Beige Dupatta 34",
-    "category": "Dupatta",
-    "price": 4852,
-    "sizes": [
-      "S",
-      "M",
-      "L"
-    ],
-    "colors": [
-      "Yellow",
-      "Beige"
-    ],
-    "material": "Silk",
-    "description": "Casual wear with a graceful look.",
-    "inStock": true,
-    "image": "/images/women/product034.jpg"
-  },
-  {
-    "id": "product035",
-    "name": "Gold Shalwar Kameez 35",
-    "category": "Shalwar Kameez",
-    "price": 3277,
-    "sizes": [
-      "M",
-      "L",
-      "XL"
-    ],
-    "colors": [
-      "White",
-      "Gold"
-    ],
-    "material": "Silk",
-    "description": "Casual wear with a graceful look.",
-    "inStock": true,
-    "image": "/images/women/product035.jpg"
-  },
-  {
-    "id": "product036",
-    "name": "Green Frock 36",
-    "category": "Frock",
-    "price": 3258,
-    "sizes": [
-      "M",
-      "L",
-      "XL"
-    ],
-    "colors": [
-      "Green",
-      "Pink"
-    ],
-    "material": "Chiffon",
-    "description": "Intricate detailing and a modern touch.",
-    "inStock": true,
-    "image": "/images/women/product036.jpg"
-  },
-  {
-    "id": "product037",
-    "name": "Black Shalwar Kameez 37",
-    "category": "Shalwar Kameez",
-    "price": 5803,
-    "sizes": [
-      "Free Size"
-    ],
-    "colors": [
-      "Black",
-      "Red"
-    ],
-    "material": "Cotton",
-    "description": "Lightweight and perfect for summer.",
-    "inStock": false,
-    "image": "/images/women/product037.jpg"
-  },
-  {
-    "id": "product038",
-    "name": "Green 3-Piece Suit 38",
-    "category": "3-Piece Suit",
-    "price": 6878,
-    "sizes": [
-      "S",
-      "M",
-      "L"
-    ],
-    "colors": [
-      "Green",
-      "Pink"
-    ],
-    "material": "Lawn",
-    "description": "Lightweight and perfect for summer.",
-    "inStock": true,
-    "image": "/images/women/product038.jpg"
-  },
-  {
-    "id": "product039",
-    "name": "Blue 2-Piece Suit 39",
-    "category": "2-Piece Suit",
-    "price": 4475,
-    "sizes": [
-      "Free Size"
-    ],
-    "colors": [
-      "Blue",
-      "Silver"
-    ],
-    "material": "Lawn",
-    "description": "High-quality fabric with hand-stitched work.",
-    "inStock": false,
-    "image": "/images/women/product039.jpg"
-  },
-  {
-    "id": "product040",
-    "name": "Pink Maxi 40",
-    "category": "Maxi",
-    "price": 5524,
-    "sizes": [
-      "S",
-      "M",
-      "L"
-    ],
-    "colors": [
-      "Green",
-      "Pink"
-    ],
-    "material": "Linen",
-    "description": "Casual wear with a graceful look.",
-    "inStock": true,
-    "image": "/images/women/product040.jpg"
-  },
-  {
-    "id": "product041",
-    "name": "Pink Abaya 41",
-    "category": "Abaya",
-    "price": 4722,
-    "sizes": [
-      "XS",
-      "S",
-      "M"
-    ],
-    "colors": [
-      "Green",
-      "Pink"
-    ],
-    "material": "Linen",
-    "description": "Lightweight and perfect for summer.",
-    "inStock": true,
-    "image": "/images/women/product041.jpg"
-  },
-  {
-    "id": "product042",
-    "name": "Blue Abaya 42",
-    "category": "Abaya",
-    "price": 3224,
-    "sizes": [
-      "M",
-      "L",
-      "XL"
-    ],
-    "colors": [
-      "Blue",
-      "Silver"
-    ],
-    "material": "Linen",
-    "description": "Lightweight and perfect for summer.",
-    "inStock": true,
-    "image": "/images/women/product042.jpg"
-  },
-  {
-    "id": "product043",
-    "name": "Blue Kurta 43",
-    "category": "Kurta",
-    "price": 4297,
-    "sizes": [
-      "M",
-      "L",
-      "XL"
-    ],
-    "colors": [
-      "Blue",
-      "Silver"
-    ],
-    "material": "Linen",
-    "description": "Casual wear with a graceful look.",
-    "inStock": true,
-    "image": "/images/women/product043.jpg"
-  },
-  {
-    "id": "product044",
-    "name": "White Frock 44",
-    "category": "Frock",
-    "price": 5443,
-    "sizes": [
-      "XS",
-      "S",
-      "M"
-    ],
-    "colors": [
-      "White",
-      "Gold"
-    ],
-    "material": "Cotton",
-    "description": "Intricate detailing and a modern touch.",
-    "inStock": true,
-    "image": "/images/women/product044.jpg"
-  },
-  {
-    "id": "product045",
-    "name": "Pink Shalwar Kameez 45",
-    "category": "Shalwar Kameez",
-    "price": 4095,
-    "sizes": [
-      "Free Size"
-    ],
-    "colors": [
-      "Green",
-      "Pink"
-    ],
-    "material": "Linen",
-    "description": "Intricate detailing and a modern touch.",
-    "inStock": true,
-    "image": "/images/women/product045.jpg"
-  },
-  {
-    "id": "product046",
-    "name": "Red Dupatta 46",
-    "category": "Dupatta",
-    "price": 6927,
-    "sizes": [
-      "Free Size"
-    ],
-    "colors": [
-      "Black",
-      "Red"
-    ],
-    "material": "Linen",
-    "description": "High-quality fabric with hand-stitched work.",
-    "inStock": false,
-    "image": "/images/women/product046.jpg"
-  },
-  {
-    "id": "product047",
-    "name": "White Abaya 47",
-    "category": "Abaya",
-    "price": 5652,
-    "sizes": [
-      "XS",
-      "S",
-      "M"
-    ],
-    "colors": [
-      "White",
-      "Gold"
-    ],
-    "material": "Lawn",
-    "description": "Intricate detailing and a modern touch.",
-    "inStock": true,
-    "image": "/images/women/product047.jpg"
-  },
-  {
-    "id": "product048",
-    "name": "Blue Shalwar Kameez 48",
-    "category": "Shalwar Kameez",
-    "price": 7010,
-    "sizes": [
-      "Free Size"
-    ],
-    "colors": [
-      "Blue",
-      "Silver"
-    ],
-    "material": "Linen",
-    "description": "Casual wear with a graceful look.",
-    "inStock": true,
-    "image": "/images/women/product048.jpg"
-  },
-  {
-    "id": "product049",
-    "name": "Blue Kurta 49",
-    "category": "Kurta",
-    "price": 5439,
-    "sizes": [
-      "Free Size"
-    ],
-    "colors": [
-      "Blue",
-      "Silver"
-    ],
-    "material": "Lawn",
-    "description": "Lightweight and perfect for summer.",
-    "inStock": true,
-    "image": "/images/women/product049.jpg"
-  },
-  {
-    "id": "product050",
-    "name": "Beige 2-Piece Suit 50",
-    "category": "2-Piece Suit",
-    "price": 6967,
-    "sizes": [
-      "M",
-      "L",
-      "XL"
-    ],
-    "colors": [
-      "Yellow",
-      "Beige"
-    ],
-    "material": "Cotton",
-    "description": "High-quality fabric with hand-stitched work.",
-    "inStock": true,
-    "image": "/images/women/product050.jpg"
   }
 ]
