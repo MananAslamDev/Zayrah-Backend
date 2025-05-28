@@ -4,13 +4,8 @@
     "name": "3 Piece Embroidered Lawn Suit - Black",
     "category": "Eastern",
     "price": 5651,
-    "sizes": [
-      "Free Size"
-    ],
-    "colors": [
-      "Black",
-      "Gold"
-    ],
+    "sizes": ["Free Size"],
+    "colors": ["Black", "Gold"],
     "material": "Lawn",
     "description": "Elegant three-piece embroidered lawn suit, perfect for festive and casual occasions.",
     "inStock": true,
@@ -21,15 +16,8 @@
     "name": "3 Piece Embroidered Lawn Suit - Blue",
     "category": "Eastern",
     "price": 5340,
-    "sizes": [
-      "S",
-      "M",
-      "L"
-    ],
-    "colors": [
-      "Blue",
-      "Silver"
-    ],
+    "sizes": ["S", "M", "L"],
+    "colors": ["Blue", "Silver"],
     "material": "Lawn",
     "description": "Elegant three-piece embroidered lawn suit, perfect for festive and casual occasions.",
     "inStock": true,
@@ -40,13 +28,8 @@
     "name": "3 Piece Embroidered Lawn Suit - Pink",
     "category": "Eastern",
     "price": 5098,
-    "sizes": [
-      "Free Size"
-    ],
-    "colors": [
-      "Pink",
-      "Beige"
-    ],
+    "sizes": ["Free Size"],
+    "colors": ["Pink", "Beige"],
     "material": "Lawn",
     "description": "Elegant three-piece embroidered lawn suit, perfect for festive and casual occasions.",
     "inStock": true,
@@ -57,15 +40,8 @@
     "name": "3 Piece Embroidered Lawn Suit - Purple",
     "category": "Eastern",
     "price": 3293,
-    "sizes": [
-      "XS",
-      "S",
-      "M"
-    ],
-    "colors": [
-      "Purple",
-      "Gold"
-    ],
+    "sizes": ["XS", "S", "M"],
+    "colors": ["Purple", "Gold"],
     "material": "Lawn",
     "description": "Elegant three-piece embroidered lawn suit, perfect for festive and casual occasions.",
     "inStock": true,
@@ -76,15 +52,8 @@
     "name": "3 Piece Embroidered Lawn Suit - White & Blue",
     "category": "Eastern",
     "price": 5748,
-    "sizes": [
-      "S",
-      "M",
-      "L"
-    ],
-    "colors": [
-      "White",
-      "Blue"
-    ],
+    "sizes": ["S", "M", "L"],
+    "colors": ["White", "Blue"],
     "material": "Lawn",
     "description": "Elegant three-piece embroidered lawn suit, perfect for festive and casual occasions.",
     "inStock": true,
@@ -95,15 +64,8 @@
     "name": "3 Piece Embroidered Lawn Suit - Light Green",
     "category": "Eastern",
     "price": 5163,
-    "sizes": [
-      "M",
-      "L",
-      "XL"
-    ],
-    "colors": [
-      "Light Green",
-      "Silver"
-    ],
+    "sizes": ["M", "L", "XL"],
+    "colors": ["Light Green", "Silver"],
     "material": "Lawn",
     "description": "Elegant three-piece embroidered lawn suit, perfect for festive and casual occasions.",
     "inStock": true,
@@ -114,15 +76,8 @@
     "name": "3 Piece Embroidered Lawn Suit - Red",
     "category": "Eastern",
     "price": 6456,
-    "sizes": [
-      "XS",
-      "S",
-      "M"
-    ],
-    "colors": [
-      "Red",
-      "Gold"
-    ],
+    "sizes": ["XS", "S", "M"],
+    "colors": ["Red", "Gold"],
     "material": "Lawn",
     "description": "Elegant three-piece embroidered lawn suit, perfect for festive and casual occasions.",
     "inStock": true,
@@ -133,15 +88,8 @@
     "name": "3 Piece Embroidered Lawn Suit - Pink",
     "category": "Eastern",
     "price": 3106,
-    "sizes": [
-      "M",
-      "L",
-      "XL"
-    ],
-    "colors": [
-      "Pink",
-      "Silver"
-    ],
+    "sizes": ["M", "L", "XL"],
+    "colors": ["Pink", "Silver"],
     "material": "Lawn",
     "description": "Elegant three-piece embroidered lawn suit, perfect for festive and casual occasions.",
     "inStock": false,
@@ -152,15 +100,8 @@
     "name": "3 Piece Embroidered Lawn Suit - Brownish Silver",
     "category": "Eastern",
     "price": 3803,
-    "sizes": [
-      "S",
-      "M",
-      "L"
-    ],
-    "colors": [
-      "Brownish Silver",
-      "Beige"
-    ],
+    "sizes": ["S", "M", "L"],
+    "colors": ["Brownish Silver", "Beige"],
     "material": "Lawn",
     "description": "Elegant three-piece embroidered lawn suit, perfect for festive and casual occasions.",
     "inStock": false,
@@ -171,15 +112,8 @@
     "name": "3 Piece Embroidered Lawn Suit - Bottle Green",
     "category": "Eastern",
     "price": 5190,
-    "sizes": [
-      "M",
-      "L",
-      "XL"
-    ],
-    "colors": [
-      "Bottle Green",
-      "Gold"
-    ],
+    "sizes": ["M", "L", "XL"],
+    "colors": ["Bottle Green", "Gold"],
     "material": "Lawn",
     "description": "Elegant three-piece embroidered lawn suit, perfect for festive and casual occasions.",
     "inStock": true,
@@ -190,15 +124,8 @@
     "name": "3 Piece Embroidered Lawn Suit - Greyish Blue",
     "category": "Eastern",
     "price": 3686,
-    "sizes": [
-      "XS",
-      "S",
-      "M"
-    ],
-    "colors": [
-      "Greyish Blue",
-      "Silver"
-    ],
+    "sizes": ["XS", "S", "M"],
+    "colors": ["Greyish Blue", "Silver"],
     "material": "Lawn",
     "description": "Elegant three-piece embroidered lawn suit, perfect for festive and casual occasions.",
     "inStock": true,
@@ -209,15 +136,8 @@
     "name": "3 Piece Embroidered Lawn Suit - Green",
     "category": "Eastern",
     "price": 3084,
-    "sizes": [
-      "M",
-      "L",
-      "XL"
-    ],
-    "colors": [
-      "Green",
-      "Beige"
-    ],
+    "sizes": ["M", "L", "XL"],
+    "colors": ["Green", "Beige"],
     "material": "Lawn",
     "description": "Elegant three-piece embroidered lawn suit, perfect for festive and casual occasions.",
     "inStock": true,
@@ -228,15 +148,8 @@
     "name": "3 Piece Embroidered Lawn Suit - Pink",
     "category": "Eastern",
     "price": 7339,
-    "sizes": [
-      "XS",
-      "S",
-      "M"
-    ],
-    "colors": [
-      "Pink",
-      "Gold"
-    ],
+    "sizes": ["XS", "S", "M"],
+    "colors": ["Pink", "Gold"],
     "material": "Lawn",
     "description": "Elegant three-piece embroidered lawn suit, perfect for festive and casual occasions.",
     "inStock": true,
@@ -247,13 +160,8 @@
     "name": "3 Piece Embroidered Lawn Suit - Green",
     "category": "Eastern",
     "price": 4858,
-    "sizes": [
-      "Free Size"
-    ],
-    "colors": [
-      "Green",
-      "Silver"
-    ],
+    "sizes": ["Free Size"],
+    "colors": ["Green", "Silver"],
     "material": "Lawn",
     "description": "Elegant three-piece embroidered lawn suit, perfect for festive and casual occasions.",
     "inStock": true,
@@ -264,15 +172,8 @@
     "name": "3 Piece Embroidered Lawn Suit - Yellow",
     "category": "Eastern",
     "price": 7090,
-    "sizes": [
-      "S",
-      "M",
-      "L"
-    ],
-    "colors": [
-      "Yellow",
-      "Beige"
-    ],
+    "sizes": ["S", "M", "L"],
+    "colors": ["Yellow", "Beige"],
     "material": "Lawn",
     "description": "Elegant three-piece embroidered lawn suit, perfect for festive and casual occasions.",
     "inStock": false,
@@ -283,13 +184,8 @@
     "name": "3 Piece Embroidered Lawn Suit - Olive Green",
     "category": "Eastern",
     "price": 4162,
-    "sizes": [
-      "Free Size"
-    ],
-    "colors": [
-      "Olive Green",
-      "Gold"
-    ],
+    "sizes": ["Free Size"],
+    "colors": ["Olive Green", "Gold"],
     "material": "Lawn",
     "description": "Elegant three-piece embroidered lawn suit, perfect for festive and casual occasions.",
     "inStock": true,
@@ -300,15 +196,8 @@
     "name": "3 Piece Embroidered Lawn Suit - Red",
     "category": "Eastern",
     "price": 3030,
-    "sizes": [
-      "M",
-      "L",
-      "XL"
-    ],
-    "colors": [
-      "Red",
-      "Silver"
-    ],
+    "sizes": ["M", "L", "XL"],
+    "colors": ["Red", "Silver"],
     "material": "Lawn",
     "description": "Elegant three-piece embroidered lawn suit, perfect for festive and casual occasions.",
     "inStock": true,
@@ -319,15 +208,8 @@
     "name": "3 Piece Embroidered Lawn Suit - Cream",
     "category": "Eastern",
     "price": 5175,
-    "sizes": [
-      "M",
-      "L",
-      "XL"
-    ],
-    "colors": [
-      "Cream",
-      "Gold"
-    ],
+    "sizes": ["M", "L", "XL"],
+    "colors": ["Cream", "Gold"],
     "material": "Lawn",
     "description": "Elegant three-piece embroidered lawn suit, perfect for festive and casual occasions.",
     "inStock": true,
@@ -338,15 +220,8 @@
     "name": "3 Piece Embroidered Lawn Suit - Cream",
     "category": "Eastern",
     "price": 5369,
-    "sizes": [
-      "S",
-      "M",
-      "L"
-    ],
-    "colors": [
-      "Cream",
-      "Beige"
-    ],
+    "sizes": ["S", "M", "L"],
+    "colors": ["Cream", "Beige"],
     "material": "Lawn",
     "description": "Elegant three-piece embroidered lawn suit, perfect for festive and casual occasions.",
     "inStock": false,
@@ -357,15 +232,8 @@
     "name": "3 Piece Embroidered Lawn Suit - Sky Blue",
     "category": "Eastern",
     "price": 4750,
-    "sizes": [
-      "S",
-      "M",
-      "L"
-    ],
-    "colors": [
-      "Sky Blue",
-      "Silver"
-    ],
+    "sizes": ["S", "M", "L"],
+    "colors": ["Sky Blue", "Silver"],
     "material": "Lawn",
     "description": "Elegant three-piece embroidered lawn suit, perfect for festive and casual occasions.",
     "inStock": false,
@@ -376,15 +244,8 @@
     "name": "Maxi Dress - Navy Blue",
     "category": "Western",
     "price": 5990,
-    "sizes": [
-      "S",
-      "M",
-      "L"
-    ],
-    "colors": [
-      "Navy Blue",
-      "Silver"
-    ],
+    "sizes": ["S", "M", "L"],
+    "colors": ["Navy Blue", "Silver"],
     "material": "Chiffon",
     "description": "Flowy maxi dress with modern detailing, ideal for evening wear.",
     "inStock": true,
@@ -395,15 +256,8 @@
     "name": "Midi Dress - Coral",
     "category": "Western",
     "price": 4500,
-    "sizes": [
-      "XS",
-      "S",
-      "M"
-    ],
-    "colors": [
-      "Coral",
-      "White"
-    ],
+    "sizes": ["XS", "S", "M"],
+    "colors": ["Coral", "White"],
     "material": "Cotton",
     "description": "Chic midi dress with a fitted silhouette, perfect for casual outings.",
     "inStock": true,
@@ -414,15 +268,8 @@
     "name": "A-Line Dress - Emerald Green",
     "category": "Western",
     "price": 5200,
-    "sizes": [
-      "M",
-      "L",
-      "XL"
-    ],
-    "colors": [
-      "Emerald Green",
-      "Gold"
-    ],
+    "sizes": ["M", "L", "XL"],
+    "colors": ["Emerald Green", "Gold"],
     "material": "Satin",
     "description": "Elegant A-line dress with subtle shimmer, suitable for formal events.",
     "inStock": true,
@@ -433,15 +280,8 @@
     "name": "Wrap Dress - Lavender",
     "category": "Western",
     "price": 4800,
-    "sizes": [
-      "S",
-      "M",
-      "L"
-    ],
-    "colors": [
-      "Lavender",
-      "Silver"
-    ],
+    "sizes": ["S", "M", "L"],
+    "colors": ["Lavender", "Silver"],
     "material": "Chiffon",
     "description": "Stylish wrap dress with a flattering fit, perfect for day-to-night looks.",
     "inStock": true,
@@ -452,15 +292,8 @@
     "name": "Shift Dress - Black",
     "category": "Western",
     "price": 4100,
-    "sizes": [
-      "XS",
-      "S",
-      "M"
-    ],
-    "colors": [
-      "Black",
-      "White"
-    ],
+    "sizes": ["XS", "S", "M"],
+    "colors": ["Black", "White"],
     "material": "Cotton",
     "description": "Versatile shift dress, ideal for office or casual wear.",
     "inStock": true,
@@ -471,15 +304,8 @@
     "name": "Fit and Flare Dress - Red",
     "category": "Western",
     "price": 5500,
-    "sizes": [
-      "M",
-      "L",
-      "XL"
-    ],
-    "colors": [
-      "Red",
-      "Gold"
-    ],
+    "sizes": ["M", "L", "XL"],
+    "colors": ["Red", "Gold"],
     "material": "Satin",
     "description": "Vibrant fit and flare dress, perfect for parties and events.",
     "inStock": true,
@@ -490,15 +316,8 @@
     "name": "Slip Dress - Champagne",
     "category": "Western",
     "price": 4700,
-    "sizes": [
-      "S",
-      "M",
-      "L"
-    ],
-    "colors": [
-      "Champagne",
-      "Silver"
-    ],
+    "sizes": ["S", "M", "L"],
+    "colors": ["Champagne", "Silver"],
     "material": "Silk",
     "description": "Sleek slip dress with a minimalist design, ideal for layering.",
     "inStock": true,
@@ -509,15 +328,8 @@
     "name": "Off-Shoulder Dress - Teal",
     "category": "Western",
     "price": 4900,
-    "sizes": [
-      "XS",
-      "S",
-      "M"
-    ],
-    "colors": [
-      "Teal",
-      "Beige"
-    ],
+    "sizes": ["XS", "S", "M"],
+    "colors": ["Teal", "Beige"],
     "material": "Chiffon",
     "description": "Elegant off-shoulder dress, perfect for summer evenings.",
     "inStock": true,
@@ -528,15 +340,8 @@
     "name": "Bodycon Dress - Maroon",
     "category": "Western",
     "price": 5100,
-    "sizes": [
-      "S",
-      "M",
-      "L"
-    ],
-    "colors": [
-      "Maroon",
-      "Gold"
-    ],
+    "sizes": ["S", "M", "L"],
+    "colors": ["Maroon", "Gold"],
     "material": "Cotton Blend",
     "description": "Fitted bodycon dress for a bold and stylish look.",
     "inStock": true,
@@ -547,34 +352,44 @@
     "name": "Skater Dress - Blush Pink",
     "category": "Western",
     "price": 4600,
-    "sizes": [
-      "M",
-      "L",
-      "XL"
-    ],
-    "colors": [
-      "Blush Pink",
-      "Silver"
-    ],
+    "sizes": ["M", "L", "XL"],
+    "colors": ["Blush Pink", "Silver"],
     "material": "Satin",
     "description": "Playful skater dress with a flared skirt, ideal for casual events.",
     "inStock": true,
     "image": "/images/women/product030.jpg"
   },
   {
+    "id": "product041",
+    "name": "Halter Dress - Olive Green",
+    "category": "Western",
+    "price": 4850,
+    "sizes": ["S", "M", "L"],
+    "colors": ["Olive Green", "Gold"],
+    "material": "Chiffon",
+    "description": "Elegant halter dress with a flowy silhouette, perfect for evening outings.",
+    "inStock": true,
+    "image": "/images/women/product041.jpg"
+  },
+  {
+    "id": "product042",
+    "name": "Sheath Dress - Charcoal",
+    "category": "Western",
+    "price": 4250,
+    "sizes": ["XS", "S", "M"],
+    "colors": ["Charcoal", "Silver"],
+    "material": "Cotton Blend",
+    "description": "Sleek sheath dress with a tailored fit, ideal for professional or casual settings.",
+    "inStock": true,
+    "image": "/images/women/product042.jpg"
+  },
+  {
     "id": "product031",
     "name": "Embroidered Lehenga - Royal Blue",
     "category": "Bridal",
     "price": 12500,
-    "sizes": [
-      "S",
-      "M",
-      "L"
-    ],
-    "colors": [
-      "Royal Blue",
-      "Gold"
-    ],
+    "sizes": ["S", "M", "L"],
+    "colors": ["Royal Blue", "Gold"],
     "material": "Silk",
     "description": "Luxurious embroidered lehenga with intricate zari work, perfect for weddings.",
     "inStock": true,
@@ -585,15 +400,8 @@
     "name": "Embroidered Lehenga - Maroon",
     "category": "Bridal",
     "price": 13500,
-    "sizes": [
-      "M",
-      "L",
-      "XL"
-    ],
-    "colors": [
-      "Maroon",
-      "Silver"
-    ],
+    "sizes": ["M", "L", "XL"],
+    "colors": ["Maroon", "Silver"],
     "material": "Velvet",
     "description": "Opulent velvet lehenga with heavy embroidery, ideal for bridal wear.",
     "inStock": true,
@@ -604,15 +412,8 @@
     "name": "Embroidered Lehenga - Emerald Green",
     "category": "Bridal",
     "price": 12000,
-    "sizes": [
-      "XS",
-      "S",
-      "M"
-    ],
-    "colors": [
-      "Emerald Green",
-      "Gold"
-    ],
+    "sizes": ["XS", "S", "M"],
+    "colors": ["Emerald Green", "Gold"],
     "material": "Silk",
     "description": "Stunning silk lehenga with detailed embroidery, perfect for grand occasions.",
     "inStock": true,
@@ -623,15 +424,8 @@
     "name": "Embroidered Lehenga - Ivory",
     "category": "Bridal",
     "price": 14000,
-    "sizes": [
-      "S",
-      "M",
-      "L"
-    ],
-    "colors": [
-      "Ivory",
-      "Gold"
-    ],
+    "sizes": ["S", "M", "L"],
+    "colors": ["Ivory", "Gold"],
     "material": "Silk",
     "description": "Elegant ivory lehenga with intricate embroidery, ideal for bridal elegance.",
     "inStock": true,
@@ -642,15 +436,8 @@
     "name": "Embroidered Lehenga - Red",
     "category": "Bridal",
     "price": 13000,
-    "sizes": [
-      "M",
-      "L",
-      "XL"
-    ],
-    "colors": [
-      "Red",
-      "Silver"
-    ],
+    "sizes": ["M", "L", "XL"],
+    "colors": ["Red", "Silver"],
     "material": "Velvet",
     "description": "Rich velvet lehenga with heavy zari work, perfect for traditional ceremonies.",
     "inStock": true,
@@ -661,15 +448,8 @@
     "name": "Embroidered Lehenga - Pink",
     "category": "Bridal",
     "price": 11500,
-    "sizes": [
-      "XS",
-      "S",
-      "M"
-    ],
-    "colors": [
-      "Pink",
-      "Gold"
-    ],
+    "sizes": ["XS", "S", "M"],
+    "colors": ["Pink", "Gold"],
     "material": "Silk",
     "description": "Vibrant pink lehenga with intricate embroidery, ideal for festive celebrations.",
     "inStock": true,
@@ -680,15 +460,8 @@
     "name": "Embroidered Lehenga - Gold",
     "category": "Bridal",
     "price": 14500,
-    "sizes": [
-      "S",
-      "M",
-      "L"
-    ],
-    "colors": [
-      "Gold",
-      "Maroon"
-    ],
+    "sizes": ["S", "M", "L"],
+    "colors": ["Gold", "Maroon"],
     "material": "Silk",
     "description": "Luxurious gold lehenga with heavy embroidery, perfect for bridal wear.",
     "inStock": true,
@@ -699,56 +472,11 @@
     "name": "Embroidered Lehenga - Cream",
     "category": "Bridal",
     "price": 12500,
-    "sizes": [
-      "M",
-      "L",
-      "XL"
-    ],
-    "colors": [
-      "Cream",
-      "Silver"
-    ],
+    "sizes": ["M", "L", "XL"],
+    "colors": ["Cream", "Silver"],
     "material": "Velvet",
     "description": "Sophisticated cream lehenga with detailed zari work, ideal for weddings.",
     "inStock": true,
     "image": "/images/women/product038.jpg"
-  },
-  {
-    "id": "product039",
-    "name": "Embroidered Lehenga - Purple",
-    "category": "Bridal",
-    "price": 12000,
-    "sizes": [
-      "XS",
-      "S",
-      "M"
-    ],
-    "colors": [
-      "Purple",
-      "Gold"
-    ],
-    "material": "Silk",
-    "description": "Regal purple lehenga with intricate embroidery, perfect for bridal elegance.",
-    "inStock": true,
-    "image": "/images/women/product039.jpg"
-  },
-  {
-    "id": "product040",
-    "name": "Embroidered Lehenga - Navy Blue",
-    "category": "Bridal",
-    "price": 13000,
-    "sizes": [
-      "S",
-      "M",
-      "L"
-    ],
-    "colors": [
-      "Navy Blue",
-      "Silver"
-    ],
-    "material": "Velvet",
-    "description": "Elegant navy blue lehenga with heavy embroidery, ideal for grand occasions.",
-    "inStock": true,
-    "image": "/images/women/product040.jpg"
   }
 ]
