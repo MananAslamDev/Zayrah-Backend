@@ -360,7 +360,7 @@
     "image": "/images/women/product030.jpg"
   },
   {
-    "id": "product041",
+    "id": "product031",
     "name": "Halter Dress - Olive Green",
     "category": "Western",
     "price": 4850,
@@ -369,10 +369,10 @@
     "material": "Chiffon",
     "description": "Elegant halter dress with a flowy silhouette, perfect for evening outings.",
     "inStock": true,
-    "image": "/images/women/product041.jpg"
+    "image": "/images/women/product031.jpg"
   },
   {
-    "id": "product042",
+    "id": "product032",
     "name": "Sheath Dress - Charcoal",
     "category": "Western",
     "price": 4250,
@@ -381,10 +381,10 @@
     "material": "Cotton Blend",
     "description": "Sleek sheath dress with a tailored fit, ideal for professional or casual settings.",
     "inStock": true,
-    "image": "/images/women/product042.jpg"
+    "image": "/images/women/product032.jpg"
   },
   {
-    "id": "product031",
+    "id": "product033",
     "name": "Embroidered Lehenga - Royal Blue",
     "category": "Bridal",
     "price": 12500,
@@ -393,10 +393,10 @@
     "material": "Silk",
     "description": "Luxurious embroidered lehenga with intricate zari work, perfect for weddings.",
     "inStock": true,
-    "image": "/images/women/product031.jpg"
+    "image": "/images/women/product033.jpg"
   },
   {
-    "id": "product032",
+    "id": "product034",
     "name": "Embroidered Lehenga - Maroon",
     "category": "Bridal",
     "price": 13500,
@@ -405,10 +405,10 @@
     "material": "Velvet",
     "description": "Opulent velvet lehenga with heavy embroidery, ideal for bridal wear.",
     "inStock": true,
-    "image": "/images/women/product032.jpg"
+    "image": "/images/women/product034.jpg"
   },
   {
-    "id": "product033",
+    "id": "product035",
     "name": "Embroidered Lehenga - Emerald Green",
     "category": "Bridal",
     "price": 12000,
@@ -417,10 +417,10 @@
     "material": "Silk",
     "description": "Stunning silk lehenga with detailed embroidery, perfect for grand occasions.",
     "inStock": true,
-    "image": "/images/women/product033.jpg"
+    "image": "/images/women/product035.jpg"
   },
   {
-    "id": "product034",
+    "id": "product036",
     "name": "Embroidered Lehenga - Ivory",
     "category": "Bridal",
     "price": 14000,
@@ -429,10 +429,10 @@
     "material": "Silk",
     "description": "Elegant ivory lehenga with intricate embroidery, ideal for bridal elegance.",
     "inStock": true,
-    "image": "/images/women/product034.jpg"
+    "image": "/images/women/product036.jpg"
   },
   {
-    "id": "product035",
+    "id": "product037",
     "name": "Embroidered Lehenga - Red",
     "category": "Bridal",
     "price": 13000,
@@ -441,10 +441,10 @@
     "material": "Velvet",
     "description": "Rich velvet lehenga with heavy zari work, perfect for traditional ceremonies.",
     "inStock": true,
-    "image": "/images/women/product035.jpg"
+    "image": "/images/women/product037.jpg"
   },
   {
-    "id": "product036",
+    "id": "product038",
     "name": "Embroidered Lehenga - Pink",
     "category": "Bridal",
     "price": 11500,
@@ -453,10 +453,10 @@
     "material": "Silk",
     "description": "Vibrant pink lehenga with intricate embroidery, ideal for festive celebrations.",
     "inStock": true,
-    "image": "/images/women/product036.jpg"
+    "image": "/images/women/product038.jpg"
   },
   {
-    "id": "product037",
+    "id": "product039",
     "name": "Embroidered Lehenga - Gold",
     "category": "Bridal",
     "price": 14500,
@@ -465,10 +465,10 @@
     "material": "Silk",
     "description": "Luxurious gold lehenga with heavy embroidery, perfect for bridal wear.",
     "inStock": true,
-    "image": "/images/women/product037.jpg"
+    "image": "/images/women/product039.jpg"
   },
   {
-    "id": "product038",
+    "id": "product040",
     "name": "Embroidered Lehenga - Cream",
     "category": "Bridal",
     "price": 12500,
@@ -477,6 +477,6 @@
     "material": "Velvet",
     "description": "Sophisticated cream lehenga with detailed zari work, ideal for weddings.",
     "inStock": true,
-    "image": "/images/women/product038.jpg"
+    "image": "/images/women/product040.jpg"
   }
 ]
