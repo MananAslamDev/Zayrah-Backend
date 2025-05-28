@@ -1,25 +1,25 @@
 [
   {
     "id": "product001",
-    "name": "3 Piece Lawn Black Suit-Embroidered (Unstitched)",
-    "category": "Lawn",
+    "name": "3 Piece Embroidered Lawn Suit - Black",
+    "category": "Eastern",
     "price": 5651,
     "sizes": [
       "Free Size"
     ],
     "colors": [
-      "Blue",
-      "Silver"
+      "Black",
+      "Gold"
     ],
     "material": "Lawn",
-    "description": "High-quality fabric with hand-stitched work.",
+    "description": "Elegant three-piece embroidered lawn suit, perfect for festive and casual occasions.",
     "inStock": true,
     "image": "/images/women/product001.jpg"
   },
   {
     "id": "product002",
-    "name": "3 Piece Lawn Blue Suit-Embroidered (Unstitched)",
-    "category": "Lawn",
+    "name": "3 Piece Embroidered Lawn Suit - Blue",
+    "category": "Eastern",
     "price": 5340,
     "sizes": [
       "S",
@@ -31,31 +31,31 @@
       "Silver"
     ],
     "material": "Lawn",
-    "description": "High-quality fabric with hand-stitched work.",
+    "description": "Elegant three-piece embroidered lawn suit, perfect for festive and casual occasions.",
     "inStock": true,
     "image": "/images/women/product002.jpg"
   },
   {
     "id": "product003",
-    "name": "3 Piece Lawn Pink Suit-Embroidered (Unstitched)",
-    "category": "Lawn",
+    "name": "3 Piece Embroidered Lawn Suit - Pink",
+    "category": "Eastern",
     "price": 5098,
     "sizes": [
       "Free Size"
     ],
     "colors": [
-      "Green",
-      "Pink"
+      "Pink",
+      "Beige"
     ],
     "material": "Lawn",
-    "description": "Casual wear with a graceful look.",
+    "description": "Elegant three-piece embroidered lawn suit, perfect for festive and casual occasions.",
     "inStock": true,
     "image": "/images/women/product003.jpg"
   },
   {
     "id": "product004",
-    "name": "Red Shalwar Kameez 4",
-    "category": "Lawn",
+    "name": "3 Piece Embroidered Lawn Suit - Purple",
+    "category": "Eastern",
     "price": 3293,
     "sizes": [
       "XS",
@@ -63,18 +63,18 @@
       "M"
     ],
     "colors": [
-      "Black",
-      "Red"
+      "Purple",
+      "Gold"
     ],
     "material": "Lawn",
-    "description": "Casual wear with a graceful look.",
+    "description": "Elegant three-piece embroidered lawn suit, perfect for festive and casual occasions.",
     "inStock": true,
     "image": "/images/women/product004.jpg"
   },
   {
     "id": "product005",
-    "name": "Black Kurta 5",
-    "category": "Kurta",
+    "name": "3 Piece Embroidered Lawn Suit - White & Blue",
+    "category": "Eastern",
     "price": 5748,
     "sizes": [
       "S",
@@ -82,18 +82,18 @@
       "L"
     ],
     "colors": [
-      "Black",
-      "Red"
+      "White",
+      "Blue"
     ],
-    "material": "Cotton",
-    "description": "Elegant design with traditional embroidery.",
+    "material": "Lawn",
+    "description": "Elegant three-piece embroidered lawn suit, perfect for festive and casual occasions.",
     "inStock": true,
     "image": "/images/women/product005.jpg"
   },
   {
     "id": "product006",
-    "name": "Silver Shalwar Kameez 6",
-    "category": "Shalwar Kameez",
+    "name": "3 Piece Embroidered Lawn Suit - Light Green",
+    "category": "Eastern",
     "price": 5163,
     "sizes": [
       "M",
@@ -101,18 +101,18 @@
       "XL"
     ],
     "colors": [
-      "Blue",
+      "Light Green",
       "Silver"
     ],
-    "material": "Linen",
-    "description": "High-quality fabric with hand-stitched work.",
+    "material": "Lawn",
+    "description": "Elegant three-piece embroidered lawn suit, perfect for festive and casual occasions.",
     "inStock": true,
     "image": "/images/women/product006.jpg"
   },
   {
     "id": "product007",
-    "name": "Pink 2-Piece Suit 7",
-    "category": "2-Piece Suit",
+    "name": "3 Piece Embroidered Lawn Suit - Red",
+    "category": "Eastern",
     "price": 6456,
     "sizes": [
       "XS",
@@ -120,18 +120,18 @@
       "M"
     ],
     "colors": [
-      "Green",
-      "Pink"
+      "Red",
+      "Gold"
     ],
-    "material": "Silk",
-    "description": "Intricate detailing and a modern touch.",
+    "material": "Lawn",
+    "description": "Elegant three-piece embroidered lawn suit, perfect for festive and casual occasions.",
     "inStock": true,
     "image": "/images/women/product007.jpg"
   },
   {
     "id": "product008",
-    "name": "Gold 3-Piece Suit 8",
-    "category": "3-Piece Suit",
+    "name": "3 Piece Embroidered Lawn Suit - Pink",
+    "category": "Eastern",
     "price": 3106,
     "sizes": [
       "M",
@@ -139,18 +139,18 @@
       "XL"
     ],
     "colors": [
-      "White",
-      "Gold"
+      "Pink",
+      "Silver"
     ],
-    "material": "Linen",
-    "description": "Intricate detailing and a modern touch.",
+    "material": "Lawn",
+    "description": "Elegant three-piece embroidered lawn suit, perfect for festive and casual occasions.",
     "inStock": false,
     "image": "/images/women/product008.jpg"
   },
   {
     "id": "product009",
-    "name": "Gold 2-Piece Suit 9",
-    "category": "2-Piece Suit",
+    "name": "3 Piece Embroidered Lawn Suit - Brownish Silver",
+    "category": "Eastern",
     "price": 3803,
     "sizes": [
       "S",
@@ -158,18 +158,18 @@
       "L"
     ],
     "colors": [
-      "White",
-      "Gold"
+      "Brownish Silver",
+      "Beige"
     ],
-    "material": "Cotton",
-    "description": "Casual wear with a graceful look.",
+    "material": "Lawn",
+    "description": "Elegant three-piece embroidered lawn suit, perfect for festive and casual occasions.",
     "inStock": false,
     "image": "/images/women/product009.jpg"
   },
   {
     "id": "product010",
-    "name": "Black 2-Piece Suit 10",
-    "category": "2-Piece Suit",
+    "name": "3 Piece Embroidered Lawn Suit - Bottle Green",
+    "category": "Eastern",
     "price": 5190,
     "sizes": [
       "M",
@@ -177,18 +177,18 @@
       "XL"
     ],
     "colors": [
-      "Black",
-      "Red"
+      "Bottle Green",
+      "Gold"
     ],
-    "material": "Cotton",
-    "description": "Intricate detailing and a modern touch.",
+    "material": "Lawn",
+    "description": "Elegant three-piece embroidered lawn suit, perfect for festive and casual occasions.",
     "inStock": true,
     "image": "/images/women/product010.jpg"
   },
   {
     "id": "product011",
-    "name": "Black Shalwar Kameez 11",
-    "category": "Shalwar Kameez",
+    "name": "3 Piece Embroidered Lawn Suit - Greyish Blue",
+    "category": "Eastern",
     "price": 3686,
     "sizes": [
       "XS",
@@ -196,18 +196,18 @@
       "M"
     ],
     "colors": [
-      "Black",
-      "Red"
+      "Greyish Blue",
+      "Silver"
     ],
-    "material": "Silk",
-    "description": "Intricate detailing and a modern touch.",
+    "material": "Lawn",
+    "description": "Elegant three-piece embroidered lawn suit, perfect for festive and casual occasions.",
     "inStock": true,
     "image": "/images/women/product011.jpg"
   },
   {
     "id": "product012",
-    "name": "White Abaya 12",
-    "category": "Abaya",
+    "name": "3 Piece Embroidered Lawn Suit - Green",
+    "category": "Eastern",
     "price": 3084,
     "sizes": [
       "M",
@@ -215,18 +215,18 @@
       "XL"
     ],
     "colors": [
-      "White",
-      "Gold"
+      "Green",
+      "Beige"
     ],
-    "material": "Silk",
-    "description": "Lightweight and perfect for summer.",
+    "material": "Lawn",
+    "description": "Elegant three-piece embroidered lawn suit, perfect for festive and casual occasions.",
     "inStock": true,
     "image": "/images/women/product012.jpg"
   },
   {
     "id": "product013",
-    "name": "Red Maxi 13",
-    "category": "Maxi",
+    "name": "3 Piece Embroidered Lawn Suit - Pink",
+    "category": "Eastern",
     "price": 7339,
     "sizes": [
       "XS",
@@ -234,35 +234,35 @@
       "M"
     ],
     "colors": [
-      "Black",
-      "Red"
+      "Pink",
+      "Gold"
     ],
-    "material": "Cotton",
-    "description": "High-quality fabric with hand-stitched work.",
+    "material": "Lawn",
+    "description": "Elegant three-piece embroidered lawn suit, perfect for festive and casual occasions.",
     "inStock": true,
     "image": "/images/women/product013.jpg"
   },
   {
     "id": "product014",
-    "name": "Yellow Abaya 14",
-    "category": "Abaya",
+    "name": "3 Piece Embroidered Lawn Suit - Green",
+    "category": "Eastern",
     "price": 4858,
     "sizes": [
       "Free Size"
     ],
     "colors": [
-      "Yellow",
-      "Beige"
+      "Green",
+      "Silver"
     ],
-    "material": "Linen",
-    "description": "Lightweight and perfect for summer.",
+    "material": "Lawn",
+    "description": "Elegant three-piece embroidered lawn suit, perfect for festive and casual occasions.",
     "inStock": true,
     "image": "/images/women/product014.jpg"
   },
   {
     "id": "product015",
-    "name": "Silver Kurta 15",
-    "category": "Kurta",
+    "name": "3 Piece Embroidered Lawn Suit - Yellow",
+    "category": "Eastern",
     "price": 7090,
     "sizes": [
       "S",
@@ -270,35 +270,35 @@
       "L"
     ],
     "colors": [
-      "Blue",
-      "Silver"
+      "Yellow",
+      "Beige"
     ],
-    "material": "Chiffon",
-    "description": "High-quality fabric with hand-stitched work.",
+    "material": "Lawn",
+    "description": "Elegant three-piece embroidered lawn suit, perfect for festive and casual occasions.",
     "inStock": false,
     "image": "/images/women/product015.jpg"
   },
   {
     "id": "product016",
-    "name": "Pink 3-Piece Suit 16",
-    "category": "3-Piece Suit",
+    "name": "3 Piece Embroidered Lawn Suit - Olive Green",
+    "category": "Eastern",
     "price": 4162,
     "sizes": [
       "Free Size"
     ],
     "colors": [
-      "Green",
-      "Pink"
+      "Olive Green",
+      "Gold"
     ],
-    "material": "Silk",
-    "description": "Lightweight and perfect for summer.",
+    "material": "Lawn",
+    "description": "Elegant three-piece embroidered lawn suit, perfect for festive and casual occasions.",
     "inStock": true,
     "image": "/images/women/product016.jpg"
   },
   {
     "id": "product017",
-    "name": "Gold Kurta 17",
-    "category": "Kurta",
+    "name": "3 Piece Embroidered Lawn Suit - Red",
+    "category": "Eastern",
     "price": 3030,
     "sizes": [
       "M",
@@ -306,18 +306,18 @@
       "XL"
     ],
     "colors": [
-      "White",
-      "Gold"
+      "Red",
+      "Silver"
     ],
-    "material": "Chiffon",
-    "description": "Intricate detailing and a modern touch.",
+    "material": "Lawn",
+    "description": "Elegant three-piece embroidered lawn suit, perfect for festive and casual occasions.",
     "inStock": true,
     "image": "/images/women/product017.jpg"
   },
   {
     "id": "product018",
-    "name": "Pink 3-Piece Suit 18",
-    "category": "3-Piece Suit",
+    "name": "3 Piece Embroidered Lawn Suit - Cream",
+    "category": "Eastern",
     "price": 5175,
     "sizes": [
       "M",
@@ -325,18 +325,18 @@
       "XL"
     ],
     "colors": [
-      "Green",
-      "Pink"
+      "Cream",
+      "Gold"
     ],
-    "material": "Cotton",
-    "description": "Casual wear with a graceful look.",
+    "material": "Lawn",
+    "description": "Elegant three-piece embroidered lawn suit, perfect for festive and casual occasions.",
     "inStock": true,
     "image": "/images/women/product018.jpg"
   },
   {
     "id": "product019",
-    "name": "Green Kurta 19",
-    "category": "Kurta",
+    "name": "3 Piece Embroidered Lawn Suit - Cream",
+    "category": "Eastern",
     "price": 5369,
     "sizes": [
       "S",
@@ -344,18 +344,18 @@
       "L"
     ],
     "colors": [
-      "Green",
-      "Pink"
+      "Cream",
+      "Beige"
     ],
-    "material": "Cotton",
-    "description": "Casual wear with a graceful look.",
+    "material": "Lawn",
+    "description": "Elegant three-piece embroidered lawn suit, perfect for festive and casual occasions.",
     "inStock": false,
     "image": "/images/women/product019.jpg"
   },
   {
     "id": "product020",
-    "name": "White Frock 20",
-    "category": "Frock",
+    "name": "3 Piece Embroidered Lawn Suit - Sky Blue",
+    "category": "Eastern",
     "price": 4750,
     "sizes": [
       "S",
@@ -363,12 +363,392 @@
       "L"
     ],
     "colors": [
-      "White",
+      "Sky Blue",
+      "Silver"
+    ],
+    "material": "Lawn",
+    "description": "Elegant three-piece embroidered lawn suit, perfect for festive and casual occasions.",
+    "inStock": false,
+    "image": "/images/women/product020.jpg"
+  },
+  {
+    "id": "product021",
+    "name": "Maxi Dress - Navy Blue",
+    "category": "Western",
+    "price": 5990,
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
+    "colors": [
+      "Navy Blue",
+      "Silver"
+    ],
+    "material": "Chiffon",
+    "description": "Flowy maxi dress with modern detailing, ideal for evening wear.",
+    "inStock": true,
+    "image": "/images/women/product021.jpg"
+  },
+  {
+    "id": "product022",
+    "name": "Midi Dress - Coral",
+    "category": "Western",
+    "price": 4500,
+    "sizes": [
+      "XS",
+      "S",
+      "M"
+    ],
+    "colors": [
+      "Coral",
+      "White"
+    ],
+    "material": "Cotton",
+    "description": "Chic midi dress with a fitted silhouette, perfect for casual outings.",
+    "inStock": true,
+    "image": "/images/women/product022.jpg"
+  },
+  {
+    "id": "product023",
+    "name": "A-Line Dress - Emerald Green",
+    "category": "Western",
+    "price": 5200,
+    "sizes": [
+      "M",
+      "L",
+      "XL"
+    ],
+    "colors": [
+      "Emerald Green",
+      "Gold"
+    ],
+    "material": "Satin",
+    "description": "Elegant A-line dress with subtle shimmer, suitable for formal events.",
+    "inStock": true,
+    "image": "/images/women/product023.jpg"
+  },
+  {
+    "id": "product024",
+    "name": "Wrap Dress - Lavender",
+    "category": "Western",
+    "price": 4800,
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
+    "colors": [
+      "Lavender",
+      "Silver"
+    ],
+    "material": "Chiffon",
+    "description": "Stylish wrap dress with a flattering fit, perfect for day-to-night looks.",
+    "inStock": true,
+    "image": "/images/women/product024.jpg"
+  },
+  {
+    "id": "product025",
+    "name": "Shift Dress - Black",
+    "category": "Western",
+    "price": 4100,
+    "sizes": [
+      "XS",
+      "S",
+      "M"
+    ],
+    "colors": [
+      "Black",
+      "White"
+    ],
+    "material": "Cotton",
+    "description": "Versatile shift dress, ideal for office or casual wear.",
+    "inStock": true,
+    "image": "/images/women/product025.jpg"
+  },
+  {
+    "id": "product026",
+    "name": "Fit and Flare Dress - Red",
+    "category": "Western",
+    "price": 5500,
+    "sizes": [
+      "M",
+      "L",
+      "XL"
+    ],
+    "colors": [
+      "Red",
+      "Gold"
+    ],
+    "material": "Satin",
+    "description": "Vibrant fit and flare dress, perfect for parties and events.",
+    "inStock": true,
+    "image": "/images/women/product026.jpg"
+  },
+  {
+    "id": "product027",
+    "name": "Slip Dress - Champagne",
+    "category": "Western",
+    "price": 4700,
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
+    "colors": [
+      "Champagne",
+      "Silver"
+    ],
+    "material": "Silk",
+    "description": "Sleek slip dress with a minimalist design, ideal for layering.",
+    "inStock": true,
+    "image": "/images/women/product027.jpg"
+  },
+  {
+    "id": "product028",
+    "name": "Off-Shoulder Dress - Teal",
+    "category": "Western",
+    "price": 4900,
+    "sizes": [
+      "XS",
+      "S",
+      "M"
+    ],
+    "colors": [
+      "Teal",
+      "Beige"
+    ],
+    "material": "Chiffon",
+    "description": "Elegant off-shoulder dress, perfect for summer evenings.",
+    "inStock": true,
+    "image": "/images/women/product028.jpg"
+  },
+  {
+    "id": "product029",
+    "name": "Bodycon Dress - Maroon",
+    "category": "Western",
+    "price": 5100,
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
+    "colors": [
+      "Maroon",
+      "Gold"
+    ],
+    "material": "Cotton Blend",
+    "description": "Fitted bodycon dress for a bold and stylish look.",
+    "inStock": true,
+    "image": "/images/women/product029.jpg"
+  },
+  {
+    "id": "product030",
+    "name": "Skater Dress - Blush Pink",
+    "category": "Western",
+    "price": 4600,
+    "sizes": [
+      "M",
+      "L",
+      "XL"
+    ],
+    "colors": [
+      "Blush Pink",
+      "Silver"
+    ],
+    "material": "Satin",
+    "description": "Playful skater dress with a flared skirt, ideal for casual events.",
+    "inStock": true,
+    "image": "/images/women/product030.jpg"
+  },
+  {
+    "id": "product031",
+    "name": "Embroidered Lehenga - Royal Blue",
+    "category": "Bridal",
+    "price": 12500,
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
+    "colors": [
+      "Royal Blue",
       "Gold"
     ],
     "material": "Silk",
-    "description": "Intricate detailing and a modern touch.",
-    "inStock": false,
-    "image": "/images/women/product020.jpg"
+    "description": "Luxurious embroidered lehenga with intricate zari work, perfect for weddings.",
+    "inStock": true,
+    "image": "/images/women/product031.jpg"
+  },
+  {
+    "id": "product032",
+    "name": "Embroidered Lehenga - Maroon",
+    "category": "Bridal",
+    "price": 13500,
+    "sizes": [
+      "M",
+      "L",
+      "XL"
+    ],
+    "colors": [
+      "Maroon",
+      "Silver"
+    ],
+    "material": "Velvet",
+    "description": "Opulent velvet lehenga with heavy embroidery, ideal for bridal wear.",
+    "inStock": true,
+    "image": "/images/women/product032.jpg"
+  },
+  {
+    "id": "product033",
+    "name": "Embroidered Lehenga - Emerald Green",
+    "category": "Bridal",
+    "price": 12000,
+    "sizes": [
+      "XS",
+      "S",
+      "M"
+    ],
+    "colors": [
+      "Emerald Green",
+      "Gold"
+    ],
+    "material": "Silk",
+    "description": "Stunning silk lehenga with detailed embroidery, perfect for grand occasions.",
+    "inStock": true,
+    "image": "/images/women/product033.jpg"
+  },
+  {
+    "id": "product034",
+    "name": "Embroidered Lehenga - Ivory",
+    "category": "Bridal",
+    "price": 14000,
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
+    "colors": [
+      "Ivory",
+      "Gold"
+    ],
+    "material": "Silk",
+    "description": "Elegant ivory lehenga with intricate embroidery, ideal for bridal elegance.",
+    "inStock": true,
+    "image": "/images/women/product034.jpg"
+  },
+  {
+    "id": "product035",
+    "name": "Embroidered Lehenga - Red",
+    "category": "Bridal",
+    "price": 13000,
+    "sizes": [
+      "M",
+      "L",
+      "XL"
+    ],
+    "colors": [
+      "Red",
+      "Silver"
+    ],
+    "material": "Velvet",
+    "description": "Rich velvet lehenga with heavy zari work, perfect for traditional ceremonies.",
+    "inStock": true,
+    "image": "/images/women/product035.jpg"
+  },
+  {
+    "id": "product036",
+    "name": "Embroidered Lehenga - Pink",
+    "category": "Bridal",
+    "price": 11500,
+    "sizes": [
+      "XS",
+      "S",
+      "M"
+    ],
+    "colors": [
+      "Pink",
+      "Gold"
+    ],
+    "material": "Silk",
+    "description": "Vibrant pink lehenga with intricate embroidery, ideal for festive celebrations.",
+    "inStock": true,
+    "image": "/images/women/product036.jpg"
+  },
+  {
+    "id": "product037",
+    "name": "Embroidered Lehenga - Gold",
+    "category": "Bridal",
+    "price": 14500,
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
+    "colors": [
+      "Gold",
+      "Maroon"
+    ],
+    "material": "Silk",
+    "description": "Luxurious gold lehenga with heavy embroidery, perfect for bridal wear.",
+    "inStock": true,
+    "image": "/images/women/product037.jpg"
+  },
+  {
+    "id": "product038",
+    "name": "Embroidered Lehenga - Cream",
+    "category": "Bridal",
+    "price": 12500,
+    "sizes": [
+      "M",
+      "L",
+      "XL"
+    ],
+    "colors": [
+      "Cream",
+      "Silver"
+    ],
+    "material": "Velvet",
+    "description": "Sophisticated cream lehenga with detailed zari work, ideal for weddings.",
+    "inStock": true,
+    "image": "/images/women/product038.jpg"
+  },
+  {
+    "id": "product039",
+    "name": "Embroidered Lehenga - Purple",
+    "category": "Bridal",
+    "price": 12000,
+    "sizes": [
+      "XS",
+      "S",
+      "M"
+    ],
+    "colors": [
+      "Purple",
+      "Gold"
+    ],
+    "material": "Silk",
+    "description": "Regal purple lehenga with intricate embroidery, perfect for bridal elegance.",
+    "inStock": true,
+    "image": "/images/women/product039.jpg"
+  },
+  {
+    "id": "product040",
+    "name": "Embroidered Lehenga - Navy Blue",
+    "category": "Bridal",
+    "price": 13000,
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
+    "colors": [
+      "Navy Blue",
+      "Silver"
+    ],
+    "material": "Velvet",
+    "description": "Elegant navy blue lehenga with heavy embroidery, ideal for grand occasions.",
+    "inStock": true,
+    "image": "/images/women/product040.jpg"
   }
 ]
