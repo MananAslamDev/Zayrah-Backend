@@ -29,7 +29,7 @@ router.post("/create-checkout-session", async (req, res) => {
             currency: "usd",
             product_data: {
               name: "Bridal Lehnga",
-              images: "/images/women/product039.jpg", // ✅ Full URL
+              images: ["https://zayrahbymanan.vercel.app/images/product038.jpg"], // ✅ Full URL
             },
             unit_amount: 2000,
           },
