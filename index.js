@@ -2,6 +2,7 @@ const express = require("express");
 const cors = require("cors");
 const womenClothesRoute = require("./routes/womenClothesRoute");
 
+app.use(express.json());
 const app = express();
 const allowedOrigins = [
   "http://localhost:5173", // Vite dev
