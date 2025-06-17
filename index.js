@@ -7,6 +7,9 @@ app.use(cors());
 
 app.use("/api/women-clothes", womenClothesRoute);
 
+const stripeRoute = require("./routes/stripeRoute");
+app.use("/api", stripeRoute);
+
 const stripe = require("stripe")(process.env.STRIPE_SECRET_KEY);
 app.post("/api/create-checkout-session", async (req, res) => {
   const { name, image, price } = req.body;
