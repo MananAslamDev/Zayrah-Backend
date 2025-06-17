@@ -3,7 +3,12 @@ const cors = require("cors");
 const womenClothesRoute = require("./routes/womenClothesRoute");
 
 const app = express();
-app.use(cors());
+app.use(
+  cors({
+    origin: "https://zayrahbymanan.vercel.app",
+    credentials: true,
+  })
+);
 
 app.use("/api/women-clothes", womenClothesRoute);
 
