@@ -5,7 +5,6 @@ require("dotenv").config();
 
 const stripe = Stripe(process.env.STRIPE_SECRET_KEY);
 
-
 router.post("/create-checkout-session", async (req, res) => {
   const { items } = req.body;
 
@@ -24,7 +23,19 @@ router.post("/create-checkout-session", async (req, res) => {
 
     const session = await stripe.checkout.sessions.create({
       payment_method_types: ["card"],
-      line_items,
+      line_items: [
+        {
+          price_data: {
+            currency: "usd",
+            product_data: {
+              name: "Bridal Lehnga",
+              images: ["https://zayrahbymanan.vercel.app/images/product038.jpg"], // ✅ Full URL
+            },
+            unit_amount: 2000,
+          },
+          quantity: 1,
+        },
+      ],
       mode: "payment",
       success_url: "https://zayrahbymanan.vercel.app/?status=success",
       cancel_url: "https://zayrahbymanan.vercel.app/?status=cancelled",
